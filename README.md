@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayush342-hash/Ayush342-hash/blob/main/Black%20Futuristic%20Software%20Engineer%20Business%20Card.png)
+![logo](https://github.com/Ayush342-hash/Ayush342-hash/blob/main/Black%20Futuristic%20Software%20Engineer%20Business%20Card%20(1).png)
 <h1 align="center">Hi 👋, I'm Ayush Jaswal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
